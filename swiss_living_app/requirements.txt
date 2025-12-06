@@ -1,0 +1,6 @@
+streamlit
+requests
+plotly==5.24.1
+kaleido==0.2.1
+fpdf2
+pandas

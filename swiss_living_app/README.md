@@ -3,7 +3,7 @@
 **A complete Swiss living-cost analysis tool built with Streamlit, Plotly, and real-time currency API.**  
 Automatically calculates monthly living cost, visualizes spending structure, and exports results as a multi-page PDF.
 
-<img width="1910" height="915" alt="image" src="https://github.com/user-attachments/assets/4477e004-95ff-479e-8797-ade9e38a03da" />
+
 
 
 ---
